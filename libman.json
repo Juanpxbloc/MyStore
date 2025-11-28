@@ -1,0 +1,14 @@
+{
+  "version": "3.0",
+  "defaultProvider": "unpkg",
+  "libraries": [
+    {
+      "library": "@fortawesome/fontawesome-free@7.1.0",
+      "destination": "wwwroot/lib/fontawesome"
+    },
+    {
+      "library": "sweetalert2@11.26.3",
+      "destination": "wwwroot/lib/sweetalert2"
+    }
+  ]
+}
